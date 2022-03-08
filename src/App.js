@@ -6,7 +6,7 @@ function App() {
 const [userName, setUserName] = useState('Alex');
 
   return (
-    <div className="app-container">
+    <div className="App-container">
       <Main userName={userName}/>
       </div>
     
